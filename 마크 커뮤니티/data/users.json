@@ -1,0 +1,7 @@
+{
+  "YEJUN": {
+    "password": "scrypt:32768:8:1$Jc86a0QODgRvqDnM$a5d0d64af701c25bab4dbf8aaeef3b992b3f89b588eb0baf87c105bf1b7790b3ce96cf2ff2abeba697dd1abeecbcc821528193374f289be782f3cc1056c969c6",
+    "is_admin": true,
+    "created_at": "2026-08-05 19:00:45"
+  }
+}
