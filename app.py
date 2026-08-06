@@ -22,7 +22,7 @@ USERS_FILE = os.path.join(DATA_DIR, 'users.json')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'webp', 'bmp'}
 
 # Render 배포 URL (환경변수로 설정 가능)
-RENDER_URL = os.environ.get('RENDER_URL', 'https://mark-community.onrender.com')
+RENDER_URL = os.environ.get('RENDER_URL', 'https://minecraft-community-korea.onrender.com')
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(UPLOAD_DIR, exist_ok=True)
